@@ -5,11 +5,11 @@
 
 ## GIF of Functionality
 
-* ![alt-text](https://github.com/waymg/ReactEmployeeDirectory/blob/master/src/ReactEmployeeDirectory.gif)
+* ![image](https://github.com/waymg/ReactEmployeeDirectory/blob/master/src/ReactEmployeeDirectory.gif)
 
 ## Link
 
-* Heroku: 
+* Heroku: https://reactemployeedirectoryuconn.herokuapp.com
 
 ## Directions
 
