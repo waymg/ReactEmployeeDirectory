@@ -5,7 +5,7 @@
 
 ## GIF of Functionality
 
-* ![image](./src/ReactEmployeeDirectory.gif)
+* ![image](/src/ReactEmployeeDirectory.gif)
 
 ## Link
 
