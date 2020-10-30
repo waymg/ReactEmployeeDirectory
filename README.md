@@ -5,7 +5,7 @@
 
 ## Example
 
-* ## [Preview](./src/React-Employee-Directory.gif)
+* ## [Preview](./React-Employee-Directory.gif)
 
 ## Link
 
