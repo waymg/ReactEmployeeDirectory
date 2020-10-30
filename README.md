@@ -5,7 +5,7 @@
 
 ## GIF of Functionality
 
-* ![image](https://github.com/waymg/ReactEmployeeDirectory/blob/master/src/ReactEmployeeDirectory.gif)
+* ![image](./src/ReactEmployeeDirectory.gif)
 
 ## Link
 
