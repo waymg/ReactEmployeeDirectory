@@ -3,9 +3,9 @@
 ## Description
 * This app utilizes an API to populate random users and then create a directory. Other users on the app can search for employees by "name" and also organize each field (Name, Email, DOB) in ascending or descending order.
 
-## GIF of Functionality
+## Example
 
-* ![alt-text](https://github.com/waymg/ReactEmployeeDirectory/blob/master/src/ReactEmployeeDirectory.gif)
+* ## [Preview](./src/React-Employee-Directory.gif)
 
 ## Link
 
