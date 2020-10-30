@@ -5,7 +5,7 @@
 
 ## Example
 
-* ## [image](./React Employee Directory.gif)
+![image](./React Employee Directory.gif)
 
 ## Link
 
